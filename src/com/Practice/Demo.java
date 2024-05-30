@@ -19,6 +19,7 @@ public class Demo {
     list.add("Mahesh");
     list.add("Prachi");
     list.add("Ankita");
+    list.add("Joshi");
     System.out.println(list);
 		
 	}
